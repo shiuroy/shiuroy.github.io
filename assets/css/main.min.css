@@ -651,7 +651,8 @@ ul.tl li .timestamp{
     animation:fadein .5s both;
     animation-delay:.3s;
     display:flex;
-    align-items:flex-start
+    align-items:flex-start;
+    border-bottom:1.5px solid rgba(58,71,80,.2)
 }
 .about-text{
     font-family: "avenir next";
